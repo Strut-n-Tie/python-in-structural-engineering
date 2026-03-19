@@ -25,8 +25,8 @@ For each session, you'll find two folders (where applicable):
 - Essential libraries:
   - **Matplotlib** – for generating graphs
   - **NumPy** – for matrix calculations
-  - **SymPy** – for symbolic mathematics
   - **Pandas** – for table-like data
+  - **SymPy** – for symbolic mathematics
 
 ## Getting Started
 
